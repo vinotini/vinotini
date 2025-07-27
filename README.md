@@ -95,5 +95,4 @@ I’m currently focused on healthcare AI and behavioral authentication, while ac
 
 ## 📝 Statement
 
-> _“I aim to build secure, intelligent, and ethical systems that create value and impact.”_
-
+> _“I aim to build secure, intelligent, and ethical systems that create value and impact.”_ 
