@@ -71,9 +71,6 @@ I’m currently focused on healthcare AI and behavioral authentication, while ac
 ## 📂 Selected Projects
 
 - **PrivAI Sentinel** – AI-powered privacy leak detection in shared documents using Streamlit and ML risk scoring.
-- **DisasterEye** – AWS-based real-time alert system for disaster-prone rural regions using OpenWeather API.
-- **AI Resume Analyzer** – NLP-driven resume evaluation tool to assess structure, strength, and keyword optimization.
-- **Student Performance Predictor** – Predicts academic outcomes using logistic regression and ML ensemble techniques.
 
 ---
 
